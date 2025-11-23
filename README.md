@@ -3,7 +3,6 @@
 A fun Python project where colorful turtles race to the finish line!  
 The winner is selected randomly based on how fast each turtle moves.
 
-
 ---
 
 ## 🎮 Features
